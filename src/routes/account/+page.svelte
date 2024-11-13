@@ -1,0 +1,1 @@
+<h1 class="text-3xl my-80">this is the account page</h1>

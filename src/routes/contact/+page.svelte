@@ -1,0 +1,1 @@
+<h1 class="text-3xl my-80"> This is the contact page</h1>
